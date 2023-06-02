@@ -1,3 +1,17 @@
+commit 36900a85df02dc9c290b1ad48f0f6c5a50fc58c1
+Author: Arfaz Hossain <arfazhussain@uvic.ca>
+Date:   Fri Jun 2 00:24:01 2023 -0700
+
+    Routine Commit
+    by @arfazhxss on Fri 02 Jun 2023
+
+commit 7078eae9b6a01631b5a252fe951fc81e71d24c2d
+Merge: d1d96f5 9432559
+Author: Arfaz Hossain <arfazhussain@uvic.ca>
+Date:   Fri Jun 2 00:23:30 2023 -0700
+
+    Merge branch 'main' of https://github.com/arfazhxss/VulkanAPI
+
 commit d1d96f53e81af47b52cefd0d9a2607bc3073b954
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
 Date:   Fri Jun 2 00:23:08 2023 -0700
@@ -11,6 +25,12 @@ Date:   Fri Jun 2 00:22:26 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Fri 02 Jun 2023
+
+commit 9432559dbbad047e48581a578b1a95c5e4dd7785
+Author: Arfaz Hussain <arfazhussain@uvic.ca>
+Date:   Thu Jun 1 16:42:09 2023 -0700
+
+    Update README
 
 commit 5155813531c97529d311a9a124a5e1df6eb78cde
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
